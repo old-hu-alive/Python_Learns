@@ -1,0 +1,77 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "test_allure特性",
+    "children" : [ {
+      "name" : "test_login_success",
+      "uid" : "5436d516d3c2377b",
+      "parentUid" : "7a62e0d0380c7bada539013257363da6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1640701840041,
+        "stop" : 1640701840042,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 6,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "test_login_fail_1",
+      "uid" : "c0e2753504856305",
+      "parentUid" : "7a62e0d0380c7bada539013257363da6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1640701840046,
+        "stop" : 1640701840047,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 6,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "test_login_fail_2",
+      "uid" : "5d64c854326874b0",
+      "parentUid" : "7a62e0d0380c7bada539013257363da6",
+      "status" : "failed",
+      "time" : {
+        "start" : 1640701840052,
+        "stop" : 1640701840053,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 6,
+      "retriesStatusChange" : true,
+      "parameters" : [ ]
+    }, {
+      "name" : "test_with_link",
+      "uid" : "a130de2188429c46",
+      "parentUid" : "7a62e0d0380c7bada539013257363da6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1640701840083,
+        "stop" : 1640701840083,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "7a62e0d0380c7bada539013257363da6"
+  } ]
+}

@@ -1,0 +1,3 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Tue Dec 28 23:20:11 GMT+08:00 2021","Tue Dec 28 23:20:11 GMT+08:00 2021","4","","test_allure_attach","","","","test_attach_photo",""
+"passed","Tue Dec 28 23:20:11 GMT+08:00 2021","Tue Dec 28 23:20:11 GMT+08:00 2021","2","","test_allure_attach","","","","test_attach_html",""

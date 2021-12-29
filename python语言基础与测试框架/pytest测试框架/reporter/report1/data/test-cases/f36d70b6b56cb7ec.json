@@ -1,0 +1,74 @@
+{
+  "uid" : "f36d70b6b56cb7ec",
+  "name" : "test_attach_photo",
+  "fullName" : "test_allure_attach#test_attach_photo",
+  "historyId" : "2c34226fce7d41ddf2b23c79c61d5bcd",
+  "time" : {
+    "start" : 1640704597625,
+    "stop" : 1640704597630,
+    "duration" : 5
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "5c8699a3ff2de479",
+      "name" : "这是测试图片",
+      "source" : "5c8699a3ff2de479.jpg",
+      "type" : "image/jpg",
+      "size" : 1167224
+    }, {
+      "uid" : "2207e8b0a8ef8a71",
+      "name" : "stdout",
+      "source" : "2207e8b0a8ef8a71.txt",
+      "type" : "text/plain",
+      "size" : 25
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 2,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 0
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "test_allure_attach"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-5FKMFO0H"
+  }, {
+    "name" : "thread",
+    "value" : "4512-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_allure_attach"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f36d70b6b56cb7ec.json",
+  "parameterValues" : [ ]
+}

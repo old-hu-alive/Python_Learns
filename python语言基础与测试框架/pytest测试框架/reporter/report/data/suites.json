@@ -1,0 +1,81 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "test_allure特性",
+    "children" : [ {
+      "name" : "TestLogin",
+      "children" : [ {
+        "name" : "test_login_success",
+        "uid" : "5436d516d3c2377b",
+        "parentUid" : "7f6d6200c8a8bfba5e40f27220f9db04",
+        "status" : "passed",
+        "time" : {
+          "start" : 1640701840041,
+          "stop" : 1640701840042,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 6,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_login_fail_1",
+        "uid" : "c0e2753504856305",
+        "parentUid" : "7f6d6200c8a8bfba5e40f27220f9db04",
+        "status" : "passed",
+        "time" : {
+          "start" : 1640701840046,
+          "stop" : 1640701840047,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 6,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_login_fail_2",
+        "uid" : "5d64c854326874b0",
+        "parentUid" : "7f6d6200c8a8bfba5e40f27220f9db04",
+        "status" : "failed",
+        "time" : {
+          "start" : 1640701840052,
+          "stop" : 1640701840053,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 6,
+        "retriesStatusChange" : true,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_with_link",
+        "uid" : "a130de2188429c46",
+        "parentUid" : "7f6d6200c8a8bfba5e40f27220f9db04",
+        "status" : "passed",
+        "time" : {
+          "start" : 1640701840083,
+          "stop" : 1640701840083,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "7f6d6200c8a8bfba5e40f27220f9db04"
+    } ],
+    "uid" : "7129b5d4b8f768bd26844fe924f7c433"
+  } ]
+}
