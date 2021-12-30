@@ -1,0 +1,70 @@
+{
+  "uid" : "40c12d5f4b87b308",
+  "name" : "test_division[2--1--2]",
+  "fullName" : "test_calc.TestCalc#test_division",
+  "historyId" : "98eeb62356e57ea73a6331996a722ec3",
+  "time" : {
+    "start" : 1640879493607,
+    "stop" : 1640879493607,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "加减乘除运算器"
+  }, {
+    "name" : "story",
+    "value" : "测试除法运算"
+  }, {
+    "name" : "suite",
+    "value" : "test_calc"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestCalc"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-5FKMFO0H"
+  }, {
+    "name" : "thread",
+    "value" : "20280-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_calc"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "a",
+    "value" : "2"
+  }, {
+    "name" : "b",
+    "value" : "-1"
+  }, {
+    "name" : "exp",
+    "value" : "-2"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "40c12d5f4b87b308.json",
+  "parameterValues" : [ "2", "-1", "-2" ]
+}

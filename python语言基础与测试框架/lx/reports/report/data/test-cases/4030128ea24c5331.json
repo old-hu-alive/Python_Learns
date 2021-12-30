@@ -1,0 +1,104 @@
+{
+  "uid" : "4030128ea24c5331",
+  "name" : "test_division[2.4-1.2-2]",
+  "fullName" : "test_calc.TestCalc#test_division",
+  "historyId" : "ab1e88c908ddd6dd3bff54268c7bf66b",
+  "time" : {
+    "start" : 1640879907744,
+    "stop" : 1640879907744,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 4,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "加减乘除运算器"
+  }, {
+    "name" : "story",
+    "value" : "测试除法运算"
+  }, {
+    "name" : "suite",
+    "value" : "test_calc"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestCalc"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-5FKMFO0H"
+  }, {
+    "name" : "thread",
+    "value" : "20908-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_calc"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "a",
+    "value" : "2.4"
+  }, {
+    "name" : "b",
+    "value" : "1.2"
+  }, {
+    "name" : "exp",
+    "value" : "2"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "cb36e1a73ace7bb9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1640879683864,
+        "stop" : 1640879683865,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "c8b900216811f3fa",
+      "status" : "passed",
+      "time" : {
+        "start" : 1640879622778,
+        "stop" : 1640879622778,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "e810b9353438533d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1640879574159,
+        "stop" : 1640879574159,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "33744f1bd4f06ad4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1640879493586,
+        "stop" : 1640879493587,
+        "duration" : 1
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4030128ea24c5331.json",
+  "parameterValues" : [ "2.4", "1.2", "2" ]
+}

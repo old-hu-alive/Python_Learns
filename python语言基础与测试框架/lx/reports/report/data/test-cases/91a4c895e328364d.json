@@ -1,0 +1,104 @@
+{
+  "uid" : "91a4c895e328364d",
+  "name" : "test_add[1-2-3]",
+  "fullName" : "test_calc.TestCalc#test_add",
+  "historyId" : "671ae85b99543553e08ffa28172fa423",
+  "time" : {
+    "start" : 1640879907674,
+    "stop" : 1640879907674,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 4,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "story",
+    "value" : "测试加法运算"
+  }, {
+    "name" : "feature",
+    "value" : "加减乘除运算器"
+  }, {
+    "name" : "suite",
+    "value" : "test_calc"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestCalc"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-5FKMFO0H"
+  }, {
+    "name" : "thread",
+    "value" : "20908-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_calc"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "a",
+    "value" : "1"
+  }, {
+    "name" : "b",
+    "value" : "2"
+  }, {
+    "name" : "exp",
+    "value" : "3"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "f242cf8297bce58f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1640879683805,
+        "stop" : 1640879683805,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "d1af016605de098a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1640879622715,
+        "stop" : 1640879622715,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "b6fa219c61be850d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1640879574098,
+        "stop" : 1640879574098,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "e78ade22ea28549a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1640879493515,
+        "stop" : 1640879493515,
+        "duration" : 0
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "91a4c895e328364d.json",
+  "parameterValues" : [ "1", "2", "3" ]
+}

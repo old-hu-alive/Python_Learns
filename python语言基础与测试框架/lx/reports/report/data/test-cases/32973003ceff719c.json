@@ -1,0 +1,104 @@
+{
+  "uid" : "32973003ceff719c",
+  "name" : "test_division[2-1-2]",
+  "fullName" : "test_calc.TestCalc#test_division",
+  "historyId" : "b345a8fa4749d3f44013438d73e76e1b",
+  "time" : {
+    "start" : 1640879907733,
+    "stop" : 1640879907733,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 4,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "加减乘除运算器"
+  }, {
+    "name" : "story",
+    "value" : "测试除法运算"
+  }, {
+    "name" : "suite",
+    "value" : "test_calc"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestCalc"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-5FKMFO0H"
+  }, {
+    "name" : "thread",
+    "value" : "20908-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_calc"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "a",
+    "value" : "2"
+  }, {
+    "name" : "b",
+    "value" : "1"
+  }, {
+    "name" : "exp",
+    "value" : "2"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "cf013cad2d50a86d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1640879683856,
+        "stop" : 1640879683856,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "12067beaf7d4165c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1640879622770,
+        "stop" : 1640879622770,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "3d49b88556d50edb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1640879574152,
+        "stop" : 1640879574152,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "6f6eb0906628c33a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1640879493575,
+        "stop" : 1640879493575,
+        "duration" : 0
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "32973003ceff719c.json",
+  "parameterValues" : [ "2", "1", "2" ]
+}

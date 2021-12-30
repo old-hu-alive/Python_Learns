@@ -1,0 +1,104 @@
+{
+  "uid" : "8c46b420aec859b0",
+  "name" : "test_division[哈哈哈-3-fail]",
+  "fullName" : "test_calc.TestCalc#test_division",
+  "historyId" : "ea9827f24fa3557c438e86ab8aacf7bd",
+  "time" : {
+    "start" : 1640879907796,
+    "stop" : 1640879907796,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 4,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "加减乘除运算器"
+  }, {
+    "name" : "story",
+    "value" : "测试除法运算"
+  }, {
+    "name" : "suite",
+    "value" : "test_calc"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestCalc"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-5FKMFO0H"
+  }, {
+    "name" : "thread",
+    "value" : "20908-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_calc"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "a",
+    "value" : "'哈哈哈'"
+  }, {
+    "name" : "b",
+    "value" : "3"
+  }, {
+    "name" : "exp",
+    "value" : "'fail'"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "96fefa509c448be9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1640879683906,
+        "stop" : 1640879683906,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "1678f79554b4281d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1640879622818,
+        "stop" : 1640879622818,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "2ce06ed9802f451",
+      "status" : "passed",
+      "time" : {
+        "start" : 1640879574198,
+        "stop" : 1640879574198,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "a40ed1f0d4b87259",
+      "status" : "passed",
+      "time" : {
+        "start" : 1640879493637,
+        "stop" : 1640879493637,
+        "duration" : 0
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8c46b420aec859b0.json",
+  "parameterValues" : [ "'哈哈哈'", "3", "'fail'" ]
+}
