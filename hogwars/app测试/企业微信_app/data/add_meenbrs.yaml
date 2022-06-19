@@ -1,0 +1,12 @@
+add_members:
+  - by: xpath
+    locator: //*[contains(@text,"姓名")]/../*[@text="必填"]
+    action: send_keys
+
+  - by: xpath
+    locator: //*[contains(@text,"手机")]/..//*[@text="必填"]
+    action: send_keys
+
+  - by: xpath
+    locator: //*[@text="保存"]
+    action: click
